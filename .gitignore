@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.npy
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+.DS_Store
+*.log
+.outputs/
+data/
+models/
+.conda/
+.nvidia/
